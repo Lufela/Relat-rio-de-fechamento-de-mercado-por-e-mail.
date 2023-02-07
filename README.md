@@ -1,2 +1,2 @@
-# Relat-rio-de-fechamento-de-mercado-por-e-mail.
-Envio do fechamento do Ibovespa e Dólar
+# Relatorio-de-fechamento-de-mercado
+Envio do fechamento do Ibovespa e Dólar por e-mail
